@@ -1,4 +1,4 @@
-# Lojas da Vergonha
+# Lista da Vergonha
 
 Lista curada de lojas em Marketplaces que vendem HD's e SSD's **falsificados**. 
 
